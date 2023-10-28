@@ -1,0 +1,18 @@
+{
+  "url": "sunucu_url",
+  "status": "idle",
+  "color": "RANDOM", 
+  "footer": "botun_attığı_embed_için_alt_baslık",
+  "botdurum": "bot_için_bio_durum_kanka",
+ 
+  "sahip": "612688335944679600",
+  "sunucuid": "sunucuid_gir_kanka",
+  "defenderlog": "sunucu_patlarkene_loglicak_log_gir",
+  "karantinarol": "karantina_rol_gir_bebeğim",
+
+  "guardbotvoice": "897140832266756110",
+
+  "guardbot1": "1_numaralı_guardının_tokeni_çiçeğim",
+  "guardbot2": "2_numaralı_guardının_tokeni_çiçeğim",
+  "guardbot3": "3_numaralı_guardının_tokeni_çiçeğim"
+  }
