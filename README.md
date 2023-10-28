@@ -1,6 +1,6 @@
 # Ozi Guards
 
-Bu bot JaylenOzi'ye aittir. https://github.com/JaylenOzi
+# Bu bot JaylenOzi'ye aittir. https://github.com/JaylenOzi
 
 - Hata varsa dm iletin düzenlerim vaktim olunca, starlarınızı bekliyorum yeni github hesabım.
 - Sizlerle geliştirmiş olduğum botlardan biriyle tanıştırmak istiyorum.. 
